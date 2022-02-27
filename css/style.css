@@ -9,3 +9,29 @@ body {
   text-align: center; 
 }
 
+section {
+  padding-top: 96px;
+  max-width: 70%;
+  margin: auto; 
+  text-align: center; 
+}
+
+section h1 {
+    font-size: 48px;
+    margin: 0 0 72px 0; 
+}
+
+/* header */
+header {
+  background-color: #34495e;
+  font-family: "Montserrat", sans-serif; 
+  color: white;
+}
+
+/* footer */
+footer {
+  margin: 0;
+  text-align: center;
+  background: #34495e;
+  color: white;
+}
